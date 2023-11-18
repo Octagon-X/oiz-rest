@@ -1,11 +1,60 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  {
+    "id": "6558cb419aecf5d27b35791f",
+    "anrede": "male",
+    "vorname": "Welch",
+    "nachname": "Edwards",
+    "funktion": "LYRICHORD",
+    "manager": "Woodward Bradshaw",
+    "employees": "adipisicing",
+    "officestreet": "Pierrepont Place",
+    "officeplz": 5511,
+    "officecity": "Suitland",
+    "orgstufe3": "ipsum",
+    "orgstufe4": "eu",
+    "orgstufe5": "incididunt",
+    "orgstufe6": "occaecat",
+    "orgstufe7": "irure",
+    "orgstufe8": "tempor",
+    "strasse": "Lancaster Avenue",
+    "personenid": "066fdecf-42f3-4d18-9a82-d863cf6c7e23",
+    "personalnummer": "incididunt",
+    "plz": 1434,
+    "office": "eiusmod",
+    "desk": "minim",
+    "email": "woodwardbradshaw@lyrichord.com",
+    "kurzzeichen": "79e975a6-d3e7-40c9-be05-12ce42b8d2da",
+    "telefon": "+41 (913) 571-2380",
+    "secondarytelefon": "+41 (907) 425-2230",
+    "mobil": "+41 (915) 512-3491",
+    "fax": "+41 (981) 404-3488"
+  },
+  {
+    "id": "6558cb41362718b8a4f8f989",
+    "anrede": "male",
+    "vorname": "Pittman",
+    "nachname": "Boone",
+    "funktion": "TURNABOUT",
+    "manager": "Bridget Sweeney",
+    "employees": "enim",
+    "officestreet": "Clinton Street",
+    "officeplz": 5775,
+    "officecity": "Belgreen",
+    "orgstufe3": "incididunt",
+    "orgstufe4": "et",
+    "orgstufe5": "occaecat",
+    "orgstufe6": "occaecat",
+    "orgstufe7": "duis",
+    "orgstufe8": "cillum",
+    "strasse": "Bank Street",
+    "personenid": "763faa8d-29b8-4e7d-89fd-9fc96eccb124",
+    "personalnummer": "duis",
+    "plz": 184,
+    "office": "do",
+    "desk": "ullamco",
+    "email": "bridgetsweeney@turnabout.com",
+    "kurzzeichen": "50d757be-14e7-4141-bef1-5835fa5ef69b",
+    "telefon": "+41 (938) 538-2879",
+    "secondarytelefon": "+41 (906) 516-2237",
+    "mobil": "+41 (802) 445-2280",
+    "fax": "+41 (873) 478-2734"
+  },
